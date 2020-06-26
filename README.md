@@ -16,11 +16,11 @@ Sys
 Re
 Pickle
 
-## process_data.py: this file contain all the function need to extract the data and clean the data
-## train_classifier.py: contain all the function to build and pipline the model and also save the model
-## ETL Pipeline Preparation.ipynb: conatin the code for anylsis the data
-## ML Pipeline Preparation.ipynb: bulid the machine learning model
-## disaster_messages.csv, disaster_categories.csv contain sample messages (real messages that were sent during disaster events) and categories datasets in csv format.
+### process_data.py: this file contain all the function need to extract the data and clean the data
+### train_classifier.py: contain all the function to build and pipline the model and also save the model
+### ETL Pipeline Preparation.ipynb: conatin the code for anylsis the data
+### ML Pipeline Preparation.ipynb: bulid the machine learning model
+### disaster_messages.csv, disaster_categories.csv contain sample messages (real messages that were sent during disaster events) and categories datasets in csv format.
 
 ## templates folder: This folder contains all of the files necessary to run and render the web app.
 ## Instructions:
